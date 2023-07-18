@@ -1,0 +1,42 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.shcolor {
+    color: red;
+}
+
+section {
+    display: flex;
+}
+
+.half-width {
+    width: 500%;
+    padding: 2%;
+}
+
+.half-width img {
+    width: 60%;
+}
+
+.linkedin {
+
+    text-decoration: none;
+    background-image: linear-gradient(#fd6e0a, #fd6e0a);
+    padding: 10px 15px;
+    border-radius: 20px;
+    font-weight: 700;
+    color: white;
+
+
+}
+
+.bgpic {
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
